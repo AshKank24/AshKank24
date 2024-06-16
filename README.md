@@ -1,6 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-### :book: Top Languages
+## I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+## 📱Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ashkank24/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="your-twitter-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp
+  </a> -->
+</div>
+
+### 📖 Top Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -15,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AshKank24&theme=dark)](https://git.io/streak-stats)
 
