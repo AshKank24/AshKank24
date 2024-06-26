@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+## Hello World!!!! I am a aspiring Artificial Intelligence and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 ## 📱Socials
 
